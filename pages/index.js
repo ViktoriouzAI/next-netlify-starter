@@ -15,6 +15,12 @@ export default function Home() {
         <p className="description">
           Viktor är ännu bättre <code>pages/index.js</code>
         </p>
+    
+    <h1>Välkommen till min GPT Hemsida</h1>
+    <p>Detta är startsidan.</p>
+    <a href="GPT01.js">Läs mer om oss</a>
+
+    
       </main>
 
       <Footer />
