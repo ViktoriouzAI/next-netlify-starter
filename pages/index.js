@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Viktor är ännu bättre <code>pages/index.js</code>
+          Viktor är ännu bättre <code>pages/GPT01.js</code>
         </p>
     
     <h1>Välkommen till min GPT Hemsida</h1>
